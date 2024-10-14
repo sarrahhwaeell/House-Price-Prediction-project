@@ -48,19 +48,12 @@ Lasso Regression: An extension of linear regression that applies L1 regularizati
 Decision Tree: A non-linear model that captures more complex relationships within the data.
 
 **Results**
+
 Linear Regression outperformed the other models, providing the most accurate predictions.
 Lasso Regression performed similarly but added regularization to mitigate overfitting.
 Decision Tree captured non-linear relationships but slightly underperformed compared to linear models.
 Key insights from EDA and feature engineering significantly improved the prediction accuracy.
 
-Usage
-To explore the project:
+**License**
 
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/sarrahhwaeell/house-price-prediction.git
-Download the dataset from Kaggle and place it in the data/ directory.
-Run the Jupyter notebooks in the notebooks/ folder to see the EDA, feature engineering, and model comparisons.
-License
 This project is licensed under the MIT License - see the LICENSE file for details
