@@ -1,9 +1,15 @@
-House Price Prediction - Bengaluru
+#**House Price Prediction - Bengaluru**
 
 
-Project Overview
+##**Project Overview**
+
+
 This project aims to predict house prices in Bangalore using the Kaggle dataset Bengaluru_House_Data. Machine learning models such as Linear Regression, Lasso Regression, and Decision Tree were applied and compared. Detailed Exploratory Data Analysis (EDA) and feature engineering were performed to improve the predictive power.
-Table of Contents
+
+
+**Table of Contents**
+
+
 Project Overview
 Dataset
 Installation
@@ -13,7 +19,9 @@ Results
 Usage
 License
 Dataset
-The dataset used is Bengaluru_House_Data from Kaggle, which includes house price information in Bangalore. Key features include:
+The dataset used is Bengaluru_House_Data from Kaggle, which includes house price information in Bangalore.
+
+**Key features include:**
 
 Location
 Total Square Feet
